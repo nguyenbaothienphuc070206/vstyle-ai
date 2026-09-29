@@ -1,6 +1,0 @@
-{
-  "name": "Vstyle",
-  "description": "Phối Việt phục theo gu của bạn, đúng bản sắc, vừa với mọi cơ thể",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
